@@ -1,0 +1,7 @@
+.gitignore
+        app.js
+        models/
+        package-lock.json
+        package.json
+        public/
+        views/
